@@ -3484,10 +3484,6 @@ figure.wp-block-table.is-style-stripes {
 	line-height: 1.4;
 }
 
-.entry-content li img {
-	display: inline-block;
-}
-
 .entry-content h1,
 .entry-content h2,
 .entry-content h3,
@@ -3506,11 +3502,6 @@ figure.wp-block-table.is-style-stripes {
 
 .entry-content hr {
 	margin: 4rem auto;
-}
-
-.post-inner .entry-content > .wp-block-cover.alignwide:first-child,
-.post-inner .entry-content > .wp-block-cover.alignfull:first-child {
-	margin-top: 0;
 }
 
 /* Font Families ----------------------------- */
@@ -5351,11 +5342,6 @@ a.to-the-top > * {
 		margin-right: 4rem;
 	}
 
-	.entry-content > .alignwide:first-child,
-	.entry-content > .alignfull:first-child {
-		margin-bottom: 8rem;
-	}
-
 	/* ENTRY MEDIA */
 
 	.alignfull > figcaption,
@@ -5608,7 +5594,7 @@ a.to-the-top > * {
 	/* Site Header --------------------------- */
 
 	#site-header {
-		z-index: 2;
+		z-index: 1;
 	}
 
 	.header-inner {
@@ -5857,10 +5843,6 @@ a.to-the-top > * {
 	.wp-block-image .alignright {
 		margin-left: 0;
 	}
-  
-    .wp-block-image .aligncenter figcaption {
-        text-align: center;
-    }
 
 	/* BLOCK: SEPARATOR */
 

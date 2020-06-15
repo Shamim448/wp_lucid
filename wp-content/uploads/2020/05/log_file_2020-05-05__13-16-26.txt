@@ -1,0 +1,84 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://ssb217.com.local
+Data file = C:\Users\User2\Local Sites\ssb217com\app\public/wp-content/uploads/2020/05/newscard.xml
+Widget file = C:\Users\User2\Local Sites\ssb217com\app\public/wp-content/uploads/2020/05/newscard.wie
+Customizer file = C:\Users\User2\Local Sites\ssb217com\app\public/wp-content/uploads/2020/05/newscard.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+TH: Recent Posts - No Title - Imported
+Categories - Categories - Imported
+
+Left Sidebar : 
+
+Search - No Title - Imported
+TH: Recent Posts - No Title - Imported
+Categories - Categories - Imported
+
+Front Page Content Section : 
+
+TH: Horizontal/Vertical Posts - No Title - Imported
+TH: Card/Block Posts - No Title - Imported
+TH: Horizontal/Vertical Posts - No Title - Imported
+TH: Card/Block Posts - No Title - Imported
+TH: Horizontal/Vertical Posts - No Title - Imported
+
+Front Page Sidebar Section : 
+
+TH: Horizontal/Vertical Posts - No Title - Imported
+TH: Recent Posts - No Title - Imported
+
+Footer - Column 1 : 
+
+Custom HTML - NewsCard - Imported
+
+Footer - Column 2 : 
+
+Gallery - Gallery - Imported
+
+Footer - Column 3 : 
+
+Categories - Categories - Imported
+
+Footer - Column 4 : 
+
+TH: Recent Posts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
